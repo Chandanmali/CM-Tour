@@ -283,8 +283,8 @@ span{
     z-index: 997;
   }
    .tap-target{
-     position: relativ;
-    top: 70px;
+     position: relative;
+    top: 150px;
   
     background-color:rgb(255, 221, 0);
   }  
