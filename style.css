@@ -274,7 +274,7 @@ span{
 }
 
  @media(max-width: 998px) {
-  .fixed-action-btn {
+ /* .fixed-action-btn {
     position: relative;
     right: -301px;
     bottom: 706px;
@@ -287,7 +287,7 @@ span{
     top: 350px;
   
     background-color:rgb(255, 221, 0);
-  }  
+  }  */
 .btn-floating i {
   width: inherit;
   /* display: block; */
