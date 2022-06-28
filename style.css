@@ -274,12 +274,12 @@ span{
 }
 
  @media(max-width: 998px) {
-  /* .tap-target{
-     position: relativ;
-    top: 70px;
+   .tap-target{
+     position: relative;
+    top: 90px;
   
     background-color:rgb(255, 221, 0);
-  }  */
+  }  
 .btn-floating i {
   width: inherit;
   display: block;
