@@ -288,14 +288,14 @@ span{
   
     background-color:rgb(255, 221, 0);
   }  */
-.btn-floating i {
+/*.btn-floating i {
   width: inherit;
   /* display: block; */
-  text-align: center;
+  /*text-align: center;
   color: #fff;
   font-size: 1.6rem;
   line-height: 40px;
-}
+}*/
   html,body{
     width: 100%;
     height: 100%;
